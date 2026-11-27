@@ -1,9 +1,5 @@
 {
-  "status": "online",
-  "version": 3,
-  "trial_active": 1,
-  "trial_key": "QE-FREE-2DAYS",
-  "trial_expires": "2026-11-28",
-  "download_url": "https://github.com/doozrm31/qe-status1/raw/main/RobRun.exe",
-  "message": "update"
+  "status": "offline",
+  "message": "Free version discontinued. Please upgrade to Paid version From discord https://discord.gg/2Ajj6Zs8x3 ",
+  "trial_active": 0
 }
